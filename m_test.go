@@ -23,5 +23,6 @@ func TestGenerate(t *testing.T) {
 }
 
 func TestFib(t *testing.T) {
-	fmt.Println(wordPattern("abba", "dog cat cat fish"))
+	//fmt.Println(wordPattern("abba", "dog cat cat fish"))
+	fmt.Println(findTheDifference("aaa", "baaa"))
 }
